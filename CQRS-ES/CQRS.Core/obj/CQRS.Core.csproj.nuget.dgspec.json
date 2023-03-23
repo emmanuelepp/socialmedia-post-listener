@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emma\\Documents\\github\\socialmedia\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {}
+    "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emma\\Documents\\github\\socialmedia\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+    "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emma\\Documents\\github\\socialmedia\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia\\CQRS-ES\\CQRS.Core\\obj\\",
+        "outputPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
