@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7wYk6lu08JAW8JDhY9iuCOc6eLHZW0VlM/tHZB8oShbpHyKOzfVMRsfOJ2qipTCQW0BItn5/HalQziJVABkUZg==",
+  "dgSpecHash": "ErMw+qXFMyHctvWSYFo0XxqOzVio199bGu5xTuZ1So/i+ah6a1PXooIahmM+vadE7lw9RsaRftRuRPIXT/nbLw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emma\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Emma\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

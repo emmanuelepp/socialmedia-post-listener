@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
+    "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
@@ -102,8 +102,8 @@
               "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+    "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "projectName": "Post.Cmd.Infrastructure",
-        "projectPath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -218,14 +218,14 @@
         }
       }
     },
-    "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj": {
+    "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\Post.Common.csproj",
         "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\obj\\",
+        "outputPath": "C:\\Users\\Emma\\Documents\\github\\socialmedia-post\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
